@@ -2,7 +2,7 @@
 Simple tic-tac-toe game, using python
 
 Player One => X, Player 2 => O
-
+`
  --- --- --- 
 | O | X | X |
  --- --- --- 
@@ -10,5 +10,5 @@ Player One => X, Player 2 => O
  --- --- --- 
 | O | - | - |
  --- --- --- 
- 
+` 
 Player 2 Wins

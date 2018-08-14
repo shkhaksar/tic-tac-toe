@@ -3,12 +3,14 @@ Simple tic-tac-toe game, using python
 
 Player One => X, Player 2 => O
 
+<pre>
  --- --- --- 
-\| O | X | X |
+| O | X | X |
  --- --- --- 
-\| O | X | - |
+| O | X | - |
  --- --- --- 
-\| O | - | - |
+| O | - | - |
  --- --- --- 
+ </pre>
  
 Player 2 Wins
